@@ -4,4 +4,3 @@ Leave approval: Manager
 Remote work: 2 days per week
 Security: Wear your ID badge
 Dress code: Business casual
-Visitor policy: Sign in at reception
